@@ -12,7 +12,7 @@ ScreenManager:
         name: 'adminhome'
     AddLocationScreen:
         name: 'add_location_screen'
-    ViewLocationScreen
+    ViewLocationScreen:
         name: 'view_location_screen'
     AddCategoryScreen:
         name: 'add_category_screen'
